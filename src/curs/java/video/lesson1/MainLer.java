@@ -8,6 +8,6 @@ public class MainLer {
         System.out.println(i);
         i= i+1;
         System.out.println(i);
-        System.out.println("Hello world!");
+        SayHell s = new SayHell();
     }
 }
